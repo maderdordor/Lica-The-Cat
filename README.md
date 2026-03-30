@@ -1,4 +1,4 @@
-# <img src="BlossomApp/blossom_logo.png" width="60" height="60" /> LICA - Social Robotics Platform
+# <img src="LicaApp/Lica_logo.png" width="60" height="60" /> LICA - Social Robotics Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/Type-Open--Source%20Robotics-green?style=flat-square&logo=robotics&logoColor=white"/>
@@ -18,7 +18,7 @@
 
 ## About LICA
 
-LICA is a next-generation social robotics platform that combines open-hardware principles with modern software development practices. Inspired by the successful Cornell Blossom Robot project, LICA provides a comprehensive toolkit for creating expressive, interactive robotic companions.
+LICA is a next-generation social robotics platform that combines open-hardware principles with modern software development practices. Inspired by the successful Cornell Lica Robot project, LICA provides a comprehensive toolkit for creating expressive, interactive robotic companions.
 
 ### Key Philosophy
 
@@ -147,9 +147,9 @@ LICA/
 │   ├── core/              # Core robot control
 │   ├── web_server/        # Web interface
 │   └── api/               # REST API endpoints
-├── blossom_web/           # Web dashboard
-├── blossom_blockly/       # Visual choreographer (Blockly)
-├── blossom_app/           # Mobile application (iOS/Android)
+├── Lica_web/           # Web dashboard
+├── Lica_blockly/       # Visual choreographer (Blockly)
+├── Lica_app/           # Mobile application (iOS/Android)
 ├── assembly/              # Hardware designs & assembly guides
 │   ├── gluing/           # Gluing instructions
 │   ├── motor/            # Motor assembly
@@ -187,11 +187,6 @@ If you use LICA in your research, please cite:
   doi={10.5281/zenodo.XXXXX}
 }
 ```
-
-Based on principles from the Cornell Blossom Robot project:
-
-> Michael Suguitan and Guy Hoffman. 2019. Blossom: A Handcrafted Open-Source Robot. J. Hum.-Robot Interact. 8, 1, Article 2 (March 2019), 27 pages. https://doi.org/10.1145/3310356
-
 ---
 
 ## Contributing
@@ -227,10 +222,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Acknowledgments
 
 <p align="center">
-  <img src="BlossomApp/blossom_logo.png" width="100" alt="Blossom Logo"/>
+  <img src="LicaApp/Lica_logo.png" width="100" alt="Lica Logo"/>
 </p>
 
-- Inspired by the [Cornell Blossom Robot](https://github.com/omnimasudo/blossom-public) project
 - Built by the robotics community, for the robotics community
 - Special thanks to all contributors
 
