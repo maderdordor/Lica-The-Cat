@@ -16,12 +16,12 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 **LICA (Low-cost Interactive Cognitive Agent)** The robot’s internal system consists of modular electronics, including a microcontroller, motor drivers, and simple wiring connections that are intentionally exposed to emphasize transparency and educational value. Flexible cables and string-based actuation systems help drive the upper expressive elements (ears), enabling lifelike motion with minimal mechanical complexity. Similar to Blossom, LICA adopts natural materials like wood to create a more approachable and emotionally comfortable interaction, especially for children with autism.
 
 ---
 
-## 📺 Project Showcase
+## Project Showcase
 
 | **Robot Preview** | **Movement Demo** |
 | :---: | :---: |
@@ -48,7 +48,7 @@ For questions, issues, or collaboration inquiries: [open an issue](https://githu
 
 ---
 
-## 🔧 Features
+## Features
 
 LICA provides a complete social robotics platform with hardware, firmware, and software components:
 
@@ -79,7 +79,7 @@ The gesture system operates in two modes: **Idle** (low-energy background behavi
 
 ---
 
-## 📊 Experimental Results
+##  Experimental Results
 
 Our quantitative evaluation demonstrates LICA's performance across key metrics:
 
@@ -116,7 +116,7 @@ Full experimental data available in [/docs/experiments/](docs/experiments/)
 
 ---
 
-## 🏆 Why Choose LICA?
+## Why Choose LICA?
 
 ### Cost Efficiency
 
@@ -140,7 +140,7 @@ LICA builds on the original Cornell Blossom design with [X research projects]([Y
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -188,17 +188,17 @@ Install the LICA mobile app from [LicaApp/](LicaApp/) for iOS/Android. Control r
 
 ---
 
-## 🎥 Demo Screenshots
+## Demo Screenshots
 
 | Gesture Sequencer | Web Dashboard | Mobile Control |
 |:-----------------:|:-------------:|:--------------:|
 | ![](figures/figure3_learning_curves.png) | ![](figures/figure2_servo_performance.png) | ![](figures/figure1_gesture_table.png) |
 
-> 📺 Full demo video: [Watch on YouTube](#)
+>  Full demo video: [Watch on YouTube](#)
 
 ---
 
-## 📚 Research Citation
+## Research Citation
 
 If you use LICA in academic work, please cite:
 
@@ -229,7 +229,7 @@ For preprint requests or collaboration inquiries: [open an issue](https://github
 
 ---
 
-## 💼 Use LICA in Your Project
+## Use LICA in Your Project
 
 Whether you're a researcher designing HRI experiments, a student building your first robot, or a maker exploring social robotics—LICA gives you a head start with proven designs and extensible software.
 
