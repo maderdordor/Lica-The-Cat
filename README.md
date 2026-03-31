@@ -233,7 +233,7 @@ Whether you're a researcher designing HRI experiments, a student building your f
 
 > Star ⭐ this repo to stay updated on new features and gesture libraries.
 
-[![Contact](https://img.shields.io/badge/Contact-Email-blue?style=flat-square)](mailto:[YOUR_EMAIL])
+[![Contact](https://img.shields.io/badge/Contact-Email-blue?style=flat-square)](mailto:[LicaSocialRobot@gmail.com])
 [![Sponsor](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)]([YOUR_LINK])
 [![Demo Request](https://img.shields.io/badge/Request-Live%20Demo-green?style=flat-square)]([YOUR_LINK])
 
