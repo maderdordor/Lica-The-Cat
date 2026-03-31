@@ -31,7 +31,7 @@
     </td>
     <td width="50%" align="center">
       <strong>Movement Demo</strong><br/><br/>
-      <video src="./media/index.mp4" width="100%" controls muted autoplay loop>
+      <video src="https://github.com/maderdordor/LICA/raw/main/media/index.mp4" width="100%" controls muted autoplay loop>
         Your browser does not support the video tag.
       </video>
     </td>
