@@ -3,7 +3,7 @@
 <p align="center">
   <img src="figures/figure4_trajectory_fidelity.png" width="650" alt="LICA Trajectory Fidelity"/>
   <br/>
-  <strong>Build expressive social robots for $200 with open-source hardware and software.</strong>
+  <strong>Learning Companion for Children with Autism .</strong>
 </p>
 
 <p align="center">
