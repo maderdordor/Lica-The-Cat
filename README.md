@@ -179,7 +179,7 @@ Our quantitative evaluation demonstrates LICA's performance across key metrics:
 
 ### Performance Comparison
 
-| Metric | LICA | Blossom (baseline) | Improvement |
+| Metric | LICA | LOOI | Improvement |
 |--------|------|---------------------|------------|
 | Motor Response Time | 47 ms | 65 ms | **27% faster** |
 | Trajectory RMSE | 1.4° | 2.8° | **50% more accurate** |
