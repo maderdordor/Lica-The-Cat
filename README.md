@@ -17,9 +17,7 @@
 ---
 
 ## 🚀 Overview
-**LICA (Low-cost Interactive Cognitive Agent)** adalah platform robotika sosial yang dirancang untuk menjembatani kesenjangan antara biaya tinggi dan ekspresivitas robot. Proyek ini memungkinkan peneliti dan pengembang untuk merakit robot interaktif yang mampu melakukan gerakan gestur kompleks hanya dengan biaya material sekitar **$200**. 
-
-Dengan fokus pada *Social Human-Robot Interaction (sHRI)*, LICA menyediakan ekosistem lengkap mulai dari desain mekanik 3D hingga kontrol perangkat lunak berbasis Python.
+**LICA (Low-cost Interactive Cognitive Agent)** The robot’s internal system consists of modular electronics, including a microcontroller, motor drivers, and simple wiring connections that are intentionally exposed to emphasize transparency and educational value. Flexible cables and string-based actuation systems help drive the upper expressive elements (ears), enabling lifelike motion with minimal mechanical complexity. Similar to Blossom, LICA adopts natural materials like wood to create a more approachable and emotionally comfortable interaction, especially for children with autism.
 
 ---
 
