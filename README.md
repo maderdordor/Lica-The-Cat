@@ -49,7 +49,7 @@ LICA's design philosophy aligns closely with therapeutic and educational princip
 
 This session is part of a broader initiative to bring open-source social robotics into *inclusive education environments*, making LICA not just a research platform, but a genuine companion for children who experience the world differently.
 
-📸 Photos from the Florida workshop session.
+Photos from the Florida workshop session.
 ![flo](https://github.com/user-attachments/assets/ea6892ff-f6c4-473d-b8a0-ccc77bce7e53)
 
 ## Project Showcase
@@ -211,7 +211,6 @@ python start.py -b
 python start.py -i 192.168.1.100
 ```
 
-The web dashboard will be accessible at `http://localhost:8000` or `http://[YOUR_IP]:8000`.
 
 ### Mobile App
 
@@ -225,36 +224,8 @@ Install the LICA mobile app from [LicaApp/](LicaApp/) for iOS/Android. Control r
 |:-----------------:|:-------------:|:--------------:|
 | ![](figures/figure3_learning_curves.png) | ![](figures/figure2_servo_performance.png) | ![](figures/figure1_gesture_table.png) |
 
->  Full demo video: [Watch on YouTube](#)
 
----
-
-## Research Citation
-
-If you use LICA in academic work, please cite:
-
-Michael Suguitan and Guy Hoffman. 2019. LICA: A Handcrafted Open-Source Robot. *J. Hum.-Robot Interact. 8*, 1, Article 2 (March 2019), 27 pages. <https://doi.org/10.1145/3310356>
-
-**BibTeX:**
-```
-@article{suguitan2019lica,
-author = {Suguitan, Michael and Hoffman, Guy},
-title = {LICA: A Handcrafted Open-Source Robot},
-year = {2019},
-issue_date = {March 2019},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {8},
-number = {1},
-doi = {10.1145/3310356},
-journal = {J. Hum.-Robot Interact.},
-month = {mar},
-articleno = {2},
-numpages = {27}
-}
-```
-
-LICA has been used in [X research projects]([YOUR_INSTITUTION_LINK]) at [Cornell University and partner institutions]. The platform supports studies in human-robot interaction, affective computing, and social robotics curriculum development.
+ The platform supports studies in human-robot interaction, affective computing, and social robotics curriculum development.
 
 For preprint requests or collaboration inquiries: [open an issue](https://github.com/maderdordor/LICA/issues).
 
