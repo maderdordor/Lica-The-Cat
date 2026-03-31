@@ -1,4 +1,4 @@
-# LICA — Learning Companion for Children with Autism - Open-Source Social Robotics Platform 
+# LICA — Learning Companion for Children with Autism (Open-Source Social Robotics Platform)
 
 <p align="center">
   <img src="figures/figure4_trajectory_fidelity.png" width="650" alt="LICA Trajectory Fidelity"/>
