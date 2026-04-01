@@ -1,3 +1,4 @@
+https://x.com/LicaTheCat </br>
 # LICA — Learning Companion for Children with Autism (Open-Source Social Robotics Platform)
 
 <p align="center">
